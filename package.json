@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wwayne/react-tooltip"
+    "url": "https://github.com/max-frai/react-tooltip"
   },
   "keywords": [
     "react",
@@ -44,9 +44,9 @@
   "author": "wwayne",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wwayne/react-tooltip/issues"
+    "url": "https://github.com/max-frai/react-tooltip/issues"
   },
-  "homepage": "https://github.com/wwayne/react-tooltip#readme",
+  "homepage": "https://github.com/max-frai/react-tooltip/react-tooltip#readme",
   "browserify-shim": {
     "react": "global:React",
     "react-dom": "global:ReactDOM"
