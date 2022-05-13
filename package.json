@@ -1,6 +1,6 @@
 {
-  "name": "react-tooltip",
-  "version": "4.2.22",
+  "name": "react-tooltip-frai",
+  "version": "4.2.24",
   "description": "react tooltip component",
   "main": "dist/index.js",
   "types": "dist/react-tooltip.d.ts",
